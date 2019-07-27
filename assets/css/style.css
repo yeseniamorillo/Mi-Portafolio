@@ -19,7 +19,7 @@ p{
 }
 h1{
   font-family: 'Righteous', cursive;
-  
+
 }
 h3{
   margin-left: 20%;
@@ -46,8 +46,7 @@ a {
 }
 
 .altura{
-  height: 40%;
-  padding-top: 40%;
+  padding-top: 18%
 
 }
  h4{
@@ -69,6 +68,8 @@ a {
 }
 @media (min-width: 576px) {
   .altura{
+    height: 40%;
+    padding-top: 40%;
     padding-bottom: 10%;
   }
 
